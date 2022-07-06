@@ -6,7 +6,7 @@ function StartAD(){
     },250)
     setTimeout(function(){
         document.getElementById("text-1").style.transform='translate(0)';
-        document.getElementById("text-1").style.transition='all 2s ease';
+        document.getElementById("text-1").style.transition='all 3s ease';
         document.getElementById("text-1").style.opacity='1';
 
     },500)
@@ -21,7 +21,7 @@ function StartAD(){
     },2000)
     setTimeout(function(){
         document.getElementById("text-2").style.transform='translate(0) ';
-        document.getElementById("text-2").style.transition='all 2s ease';
+        document.getElementById("text-2").style.transition='all 3s ease';
         document.getElementById("text-2").style.opacity='1';
 
     },2500)
@@ -36,7 +36,7 @@ function StartAD(){
     },3500)
     setTimeout(function(){
         document.getElementById("text-3").style.transform='translate(0) ';
-        document.getElementById("text-3").style.transition='all 2s ease';
+        document.getElementById("text-3").style.transition='all 3s ease';
         document.getElementById("text-3").style.opacity='1';
     },4000)
     setTimeout(function(){
